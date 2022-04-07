@@ -35,6 +35,7 @@ For further information about the library that I'm using, please read the requir
 - Data Cleaning and Preparation
 - ML Modeling and Evaluation 
 - Bussiness Insight and Recomendations
+- Deployment
 ## Machine Learning Model
 I use 5 Algoritm for modeling :
 - Logistic Regression
@@ -42,6 +43,9 @@ I use 5 Algoritm for modeling :
 - Random Forest
 - AdaBoost
 - XGBoost
+## Dataset
+- Travel.csv
+- xtesttravel.csv  test data after fitting and deployment purpose
 
 At last The best Algoritm for our project is XGBoost
 ## Screenshots Deployment
