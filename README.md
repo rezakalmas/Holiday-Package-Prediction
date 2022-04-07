@@ -28,7 +28,7 @@ This project predicts whether customers will be purchasing the product or not, b
 - [Scikit Learn](https://scikit-learn.org/stable/index.html)
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 
-For further information about the library that I'm using, please read the requirements.txt file
+For further information about the library that I'm using, please read the [requirements.txt](https://github.com/rezakalmas/Holiday-Package-Prediction/blob/main/requirements.txt) file
 ## Table of Contents
 - Data Undarstanding
 - Data Overview, EDA and Insight
