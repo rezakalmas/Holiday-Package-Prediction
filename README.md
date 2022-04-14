@@ -37,12 +37,7 @@ For further information about the library that I'm using, please read the [requi
 - Bussiness Insight and Recomendations
 - Deployment
 ## Machine Learning Model
-I use 5 Algoritm for modeling :
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- AdaBoost
-- XGBoost
+My model.pkl can be downloaded. [Click Here](https://drive.google.com/file/d/11UWw4ebMK5nQbmDD0PCCJJqwo0PxB-86/view?usp=sharing) to Download
 ## Dataset
 - Travel.csv raw data
 - Travel_Preprocessing_test.csv  X_test data for predict and deployment purpose
