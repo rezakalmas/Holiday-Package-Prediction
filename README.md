@@ -44,8 +44,12 @@ I use 5 Algoritm for modeling :
 - AdaBoost
 - XGBoost
 ## Dataset
-- Travel.csv
-- xtesttravel.csv  test data after fitting and deployment purpose
+- Travel.csv raw data
+- Travel_Preprocessing_test.csv  X_test data for predict and deployment purpose
+- Travel_Preprocessing_ytest.csv y_test data for predict and deployment purpose
+- Travel_Preprocessing_train.csv X_train data forfitting purpose
+- Travel_Preprocessing_ytest.csv y_train data forfitting purpose
+
 
 At last The best Algoritm for our project is XGBoost
 ## Screenshots Deployment
