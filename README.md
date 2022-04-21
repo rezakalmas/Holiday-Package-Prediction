@@ -28,23 +28,20 @@ This project predicts whether customers will be purchasing the product or not, b
 - [Scikit Learn](https://scikit-learn.org/stable/index.html)
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 
-For further information about the library that I'm using, please read the [requirements.txt](https://github.com/rezakalmas/Holiday-Package-Prediction/blob/main/requirements.txt) file
+For further information about the library that I'm using, please read the requirements.txt file
 ## Table of Contents
 - Data Undarstanding
 - Data Overview, EDA and Insight
 - Data Cleaning and Preparation
 - ML Modeling and Evaluation 
 - Bussiness Insight and Recomendations
-- Deployment
 ## Machine Learning Model
-My model.pkl can be downloaded. [Click Here](https://drive.google.com/file/d/11UWw4ebMK5nQbmDD0PCCJJqwo0PxB-86/view?usp=sharing) to Download
-## Dataset
-- Travel.csv raw data
-- Travel_Preprocessing_test.csv  X_test data for predict and deployment purpose
-- Travel_Preprocessing_ytest.csv y_test data for predict and deployment purpose
-- Travel_Preprocessing_train.csv X_train data forfitting purpose
-- Travel_Preprocessing_ytest.csv y_train data forfitting purpose
-
+I use 5 Algoritm for modeling :
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- AdaBoost
+- XGBoost
 
 At last The best Algoritm for our project is XGBoost
 ## Screenshots Deployment
